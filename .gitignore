@@ -1,0 +1,51 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.env
+.venv
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# === Java ===
+*.class
+*.jar
+*.war
+*.ear
+
+# Eclipse
+*.classpath
+*.project
+*.settings/
+
+# IntelliJ
+*.iml
+*.iws
+*.ipr
+.idea/
+
+# === OS files ===
+.DS_Store
+Thumbs.db
+
+# === Logs ===
+*.log
